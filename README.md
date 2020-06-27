@@ -28,13 +28,13 @@ $ cd T-Phish
 $ ls
 ```
 ```
-$ unzip T-Phish
+$ unzip T-Phish.zip
+```
+```
+$ ls
 ```
 ```
 $ cd T-Phish
-```
-```
-$ unzip T-Phish.zip
 ```
 ```
 $ chmod 777 start.sh
