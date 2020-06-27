@@ -28,10 +28,10 @@ $ cd T-Phish
 $ ls
 ```
 ```
-$ unzip T-Phish
+$ 
 ```
 ```
-$ cd T-Phish
+$ 
 ```
 ```
 $ unzip T-Phish.zip
